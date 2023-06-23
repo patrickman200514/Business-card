@@ -1,0 +1,117 @@
+body{
+    background: linear-gradient(to right, #38ef7d, #11998e);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container{
+    height: 600px;
+    width: 20%;
+    background-color: #fff;
+    margin: 70px auto;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.second{
+    position: relative;
+    height: 250px;
+    width: 95%;
+    margin: 10px auto;
+    background: linear-gradient(to right, #1dd1a1, #1abc9c);
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    top: -25px;
+    text-align: center;
+}
+.image{
+    border-radius: 50%;
+    height: 120px;
+    width: 120px;
+    margin: 20px 80px;
+}
+.fi{
+    font-weight: bold;
+    margin: -20px 0px;
+}
+.info{
+    list-style: none;
+    margin-top: -30px;
+}
+ul li{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #11998e;
+}
+ul li .fas{
+    display: inline-block;
+    width: 50px;
+}
+.fas{
+    font-size: 30px;
+}
+.third{
+    position: relative;
+    height: 12vh;
+    width: 95%;
+    margin: 200px auto;
+    background: linear-gradient(to right, #1dd1a1, #1abc9c);
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    top: -200px;
+}
+.phone{
+    margin-left: -120px;
+}
+.num1{
+    margin-top: 30px;
+    margin-bottom: -20px;
+}
+.email{
+    margin-left: -20px;
+}
+.mail1{
+    margin-top: 30px;
+    margin-bottom: -20px;
+}
+.globe{
+    margin-left: -20px;
+}
+.web1{
+    margin-top: 30px;
+    margin-bottom: -20px;
+}
+.face{
+    font-size: 40px;
+    margin-left: -250px;
+    margin-bottom: -100px;
+    color: black;
+}
+.twit{
+    font-size: 40px;
+    margin-left: -120px;
+    margin-bottom: -100px;
+    color: black;
+}
+.insta{
+    font-size: 40px;
+    margin-left: 20px;
+    margin-bottom: -100px;
+    color: black;
+}
+.link{
+    font-size: 40px;
+    margin-left: 150px;
+    margin-bottom: -100px;
+    color: black;
+}
+.face:hover{
+    color: white;
+}
+.twit:hover{
+    color: white;
+}
+.insta:hover{
+    color: white;
+}
+.link:hover{
+    color: white;
+}
